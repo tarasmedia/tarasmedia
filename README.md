@@ -4,4 +4,4 @@ My name is Taras. I'm a software engineer and full-stack web development coach. 
 
 - 🚀 I’m currently working on something cool!
 - 🎓 I’m currently coaching at [Elbrus Coding Bootcamp](https://github.com/Elbrus-Bootcamp)
-- 💬 Ask me how to become a full-stack Web Developer in 2021!
+- 💬 Ask me how to become a full-stack Web Developer in 2022!
